@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/edemzy" target="blank"><img src="https://img.shields.io/twitter/follow/edemzy?logo=twitter&style=for-the-badge" alt="edemzy" /></a> </p>
 
-- 🔭 I’m currently working on [a new portfolio website](........)
+- 🔭 I’m currently working on [a new portfolio website](https://portfolio-website-is6ubgjrh-edem-amets-projects.vercel.app/)
 
 - 🌱 I’m currently learning **flutter & laravel.**
 
