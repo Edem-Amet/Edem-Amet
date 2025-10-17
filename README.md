@@ -1,9 +1,9 @@
 <!-- 🌐 Modern GitHub Profile README for Ametepeh Edem Emmanuel -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2C96F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ametepeh+Edem+Emmanuel;Full+Stack+Developer+%26+AI+Enthusiast;Passionate+about+Accessible+Digital+Experiences!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2C96F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ametepeh+Edem+Emmanuel;Full+Stack+Developer+%26+AI+Innovator;Building+Intelligent+%26+Accessible+Digital+Solutions!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Building intelligent, accessible, and high-performing web applications.</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Accessibility Advocate</h3>
 
 <br/>
 
@@ -22,53 +22,54 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Working on **AI-powered Sign Language and Gesture Recognition Systems**
-- 💡 Blending **technology, design, and accessibility** for impact-driven solutions
-- 🌱 Exploring **Machine Learning, Flask, and Real-time Communication Systems**
-- 🧩 Skilled in building **Full Stack Web Apps** using **MERN Stack (MongoDB, Express, React, Node.js)**
-- 👯 Open to collaborating on **innovative, human-centered tech projects**
-- ⚡ Fun fact: **I debug faster with music 🎧**
-- 🔒 Managing **several private repositories** in production and research
+- 🔭 Currently developing **AI-powered Sign Language & Gesture Recognition Systems**
+- 💡 Passionate about **Accessible & Human-Centered Technologies**
+- 🌱 Deepening expertise in **Python, OpenCV, MediaPipe, and Machine Learning**
+- ⚙️ Skilled in **MERN Stack (MongoDB, Express, React, Node.js)** & **Flask Integration**
+- 💬 Advocate for **inclusive design & real-time intelligent experiences**
+- 🧠 Exploring the crossroads of **AI, Education & Digital Accessibility**
+- 🔒 Actively managing multiple **private research & production repositories**
+- 🎧 Fun fact: I debug faster with lo-fi music!
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,flask,opencv,git,github,tailwind,figma,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,flask,opencv,git,github,tailwind,figma,vscode,postman,vercel" alt="Tech Stack" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats & Activity (Public + Private)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edem-amet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edem-amet&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
+  <img src="https://github-readme-stats-edem-amets-projects.vercel.app/api?username=Edem-Amet&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edem-Amet&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edem-amet&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edem-Amet&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edem-amet&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edem-Amet&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edem-amet&theme=tokyonight&margin-w=10&margin-h=10&column=6&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Edem-Amet&theme=tokyonight&margin-w=10&margin-h=10&column=6&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 🌍 Featured Projects
 <p align="center">
-  <a href="https://github.com/edem-amet/MerciLuxe-Ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edem-amet&repo=MerciLuxe-Ecommerce&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Edem-Amet/MerciLuxe-Ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edem-Amet&repo=MerciLuxe-Ecommerce&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/edem-amet/SignLanguageAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edem-amet&repo=SignLanguageAI&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Edem-Amet/SignLanguageAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edem-Amet&repo=SignLanguageAI&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -81,10 +82,10 @@
 
 ---
 
-<p align="center">✨ “Building with purpose, powered by innovation and empathy.” ✨</p>
+<p align="center">✨ “Building with purpose — powered by innovation, empathy, and accessible design.” ✨</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edem-amet&label=Profile+Views&color=2C96F7&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Edem-Amet&label=Profile+Views&color=2C96F7&style=flat" alt="Profile Views" />
 </p>
