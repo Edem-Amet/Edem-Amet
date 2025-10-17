@@ -22,30 +22,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **AI-powered Sign Language and Gesture Recognition Systems**
-- 💡 I love blending **technology, design, and accessibility** to create impact-driven solutions
-- 🌱 I’m currently exploring **Machine Learning, Flask, and Real-time Communication Systems**
-- 🧩 Skilled in building **Full Stack Web Apps** using **MERN Stack (MongoDB, Express, React, Node.js)**  
-- 👯 I’m open to collaborating on **innovative tech-for-good projects**
+- 🔭 Working on **AI-powered Sign Language and Gesture Recognition Systems**
+- 💡 Blending **technology, design, and accessibility** for impact-driven solutions
+- 🌱 Exploring **Machine Learning, Flask, and Real-time Communication Systems**
+- 🧩 Skilled in building **Full Stack Web Apps** using **MERN Stack (MongoDB, Express, React, Node.js)**
+- 👯 Open to collaborating on **innovative, human-centered tech projects**
 - ⚡ Fun fact: **I debug faster with music 🎧**
-
----
-
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/edemzy" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" width="40" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/edem-emmanuel-174139244" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/amet_edem_emmanuel/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" alt="Instagram" />
-  </a>
-  <a href="mailto:edemamet18@gmail.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
-  </a>
-</p>
+- 🔒 Managing **several private repositories** in production and research
 
 ---
 
@@ -56,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity (Public + Private)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edem-amet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edem-amet&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
