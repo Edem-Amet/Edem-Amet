@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a sign language app for DHH individuals, view my portfolio website](https://ametepeh-edem-emmanuel-frontend.onrender.com/)
 
-- 🌱 🌱 I’m currently learning Python, OpenCV, and MediaPipe.**
+- 🌱 I’m currently learning Python, OpenCV, and MediaPipe.**
 
 - 👯 I’m looking to collaborate on **any project from anyone.**
 
