@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edem-Amet&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-edem-amets-projects.vercel.app/api/top-langs?username=Edem-Amet&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 ---
@@ -66,10 +66,10 @@
 ### 🌍 Featured Projects
 <p align="center">
   <a href="https://github.com/Edem-Amet/MerciLuxe-Ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edem-Amet&repo=MerciLuxe-Ecommerce&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-edem-amets-projects.vercel.app/api/pin/?username=Edem-Amet&repo=MerciLuxe-Ecommerce&theme=tokyonight&hide_border=true" alt="MerciLuxe-Ecommerce Repo" />
   </a>
   <a href="https://github.com/Edem-Amet/SignLanguageAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edem-Amet&repo=SignLanguageAI&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-edem-amets-projects.vercel.app/api/pin/?username=Edem-Amet&repo=SignLanguageAI&theme=tokyonight&hide_border=true" alt="SignLanguageAI Repo" />
   </a>
 </p>
 
