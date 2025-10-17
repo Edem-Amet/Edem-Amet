@@ -1,4 +1,4 @@
-<!-- Modern GitHub Profile README for Ametepeh Edem Emmanuel -->
+<!-- 🌟 Modern GitHub Profile README for Ametepeh Edem Emmanuel -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2C96F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ametepeh+Edem+Emmanuel;Frontend+Developer+from+Ghana;Passionate+about+Building+Digital+Experiences!" alt="Typing SVG" />
 </h1>
@@ -57,19 +57,19 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edem-amet&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edem-amet&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edem-Amet&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edem-Amet&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edem-amet&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edem-Amet&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edem-amet&theme=onedark&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Edem-Amet&theme=onedark&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -86,5 +86,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edem-amet&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Edem-Amet&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
